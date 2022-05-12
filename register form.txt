@@ -1,0 +1,7 @@
+Username
+Phone number
+Email
+Date of birth
+Enter Password
+Confirm Password
+Submit
